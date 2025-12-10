@@ -12,7 +12,7 @@ Reto enfocado en recrear una batería digital que reproduce sonidos al presionar
 
 ## Capturas de pantalla / GIF
 
-
+![funcionamiento](https://github.com/user-attachments/assets/cd80fe12-de84-473c-8a32-b2a58a9a9b31)
 
 ## Instrucciones para instalar y ejecutar localmente
 
